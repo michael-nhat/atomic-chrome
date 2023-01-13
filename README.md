@@ -114,6 +114,10 @@ By default, Atomic Chrome for Emacs uses the default port 4001 for Ghost Text. I
 
 You may also need to update Ghost Text's port setting in Chrome Extensions page.
 
+### Set Server Port for Ghost Text
+
+Load javascript function to connected tab and call it interactive in emacs
+
 ## History
 
 version 2.0.0 (2016-11-08)
